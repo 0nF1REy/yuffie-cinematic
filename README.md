@@ -4,7 +4,7 @@
   <li><h3><i>Página principal do projeto:</i></h3></li>
 </ul>
 
-<img src="./src/assets/images/pagina-principal.png" alt="Página principal do projeto: fal-ai-image-realtime" width="97%" align="right"/>
+<img src="./src/assets/images/pagina-principal.png" alt="Página principal do projeto: yuffie-cinematic"/>
 
 ## 🚀 Começando
 
